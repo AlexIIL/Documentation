@@ -8,6 +8,7 @@ pages:
   - Models & Rendering:
     - Blockstates: 'blockstates/introduction.md'
     - Forge Blockstates: 'blockstates/forgeBlockstates.md'
+    - Animated Models: 'blockstates/animatedModels.md'
   - Networking:
     - Home: 'networking/index.md'
     - Overview: 'networking/overview.md'
